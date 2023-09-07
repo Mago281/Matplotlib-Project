@@ -1,6 +1,6 @@
 # matplotlib-challenge
 
-##Assistance from
+## Assistance from
 ------------------
 1. Tuition session with Michael Wenz
 
@@ -16,14 +16,14 @@
 
 8. Stack Overflow
 
-##References
+## References
 -------------
 
 Matplotlib cheat sheet	
 Data Science Cheat Sheet (Pandas)
 Data Wrangling with Pandas Cheat Sheet	
 
-##In-class activities used for this assignment
+## In-class activities used for this assignment
 -----------------------------------------------
 
 1.	Module 4 _ Class 2 _ Activities	01 & 02 for loc & iloc
@@ -48,7 +48,7 @@ Data Wrangling with Pandas Cheat Sheet
 
 11.	Regression:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/05-Data-Visualisation/3/Activities/09-Stu_Fits_and_Regression/Solved/vehicles_solution.ipynb
 
-##YouTube videos & handouts
+## YouTube videos & handouts
 ---------------------------
 
 From Mark Jenson:
