@@ -61,6 +61,7 @@
 2.  An introduction to Matplotlib:	https://www.simplilearn.com/tutorials/python-tutorial/matplotlib
 
 3.  From Mark Jenson:
+   
     •	https://numpy.org/
 
     •	https://matplotlib.org/2.0.2/gallery.html
