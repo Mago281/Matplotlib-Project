@@ -56,17 +56,19 @@
 ## YouTube videos & handouts
 ---------------------------
 
-From Mark Jenson:
-•	https://numpy.org/
+1.  Matplotlib Documentation:	https://matplotlib.org/stable/gallery/index.html
 
-•	https://matplotlib.org/2.0.2/gallery.html
+2.  An introduction to Matplotlib:	https://www.simplilearn.com/tutorials/python-tutorial/matplotlib
 
-•	https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+3.  From Mark Jenson:
+    •	https://numpy.org/
 
-•	https://www.storytellingwithdata.com/blog/2014/06/alternatives-to-pies
+    •	https://matplotlib.org/2.0.2/gallery.html
+
+    •	https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
+
+    •	https://www.storytellingwithdata.com/blog/2014/06/alternatives-to-pies
 
 
-Matplotlib Documentation:	https://matplotlib.org/stable/gallery/index.html
 
-An introduction to Matplotlib:	https://www.simplilearn.com/tutorials/python-tutorial/matplotlib
 
