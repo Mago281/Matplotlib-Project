@@ -20,11 +20,11 @@
 ## References
 -------------
 
-Matplotlib cheat sheet	
+1.  Matplotlib cheat sheet
 
-Data Science Cheat Sheet (Pandas)
+2.  Data Science Cheat Sheet (Pandas)
 
-Data Wrangling with Pandas Cheat Sheet	
+3.  Data Wrangling with Pandas Cheat Sheet	
 
 
 ## In-class activities used for this assignment
