@@ -16,12 +16,16 @@
 
 8. Stack Overflow
 
+
 ## References
 -------------
 
 Matplotlib cheat sheet	
+
 Data Science Cheat Sheet (Pandas)
+
 Data Wrangling with Pandas Cheat Sheet	
+
 
 ## In-class activities used for this assignment
 -----------------------------------------------
@@ -47,6 +51,7 @@ Data Wrangling with Pandas Cheat Sheet
 10.	Correlation:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/05-Data-Visualisation/3/Activities/06-Ins_Correlation_Conundrum/Solved/correlation_solution.ipynb
 
 11.	Regression:	https://git.bootcampcontent.com/University-of-Adelaide/UADEL-VIRT-DATA-PT-06-2023-U-LOLC/-/blob/main/01-Lesson-Plans/05-Data-Visualisation/3/Activities/09-Stu_Fits_and_Regression/Solved/vehicles_solution.ipynb
+
 
 ## YouTube videos & handouts
 ---------------------------
