@@ -8,6 +8,7 @@ To achieve this objective, I will be running statistical tests to look for corre
 
 **Tools**
 I will be using Jupyter Notebook/Python, Pandas in Python, Matplotlib and scipy to display data for my pharmaceutical company.
+---
 
 **Project Steps**
 
@@ -15,15 +16,14 @@ I will be using Jupyter Notebook/Python, Pandas in Python, Matplotlib and scipy 
 Two data sets were provided in Excel format, one showed the metadata for each mouse and the other showed the study results.
 Looking for Duplicates:	Identified and extracted data for Mouse g989 as it had duplicate entries.  
 
-
+---
 
 *Step 2:	Generate summary statistics*
 
 I generated a summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen.
 ![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/a5ebf0c4-170e-425f-9f63-b058410f8769)
 
-
-
+---
 
 *Step 3:	Create bar charts and pie charts*
 
@@ -37,7 +37,7 @@ Next, I generated a pie plot showing the distribution of female versus male mice
  
 The 2 pie charts showed that 51% of mice tested were male and 49% were female.
 
-
+---
 
 *Step 4:	Calculate quartiles, find outliers, and create a box plot*
 
@@ -49,7 +49,7 @@ Boxplots - Generated a box plot to show the distribution of the tumor volume for
  
 The box plot indicated an outlier: the Infubinol drug.  An outlier is a data point that is significantly different from the rest of the data i.e. they could represent errors or unusual observations.  However, not all extreme values are necessarily errors; they sometimes represent valid data points that deviate from the central trend.
 
-
+---
 
 *Step 5:	Create a line plot and a scatter plot*
 
@@ -62,7 +62,7 @@ The line plot for Capomulin treatment of mouse I509 showed the tumor volume stil
 Scatter Plot - Generated a scatter plot of mouse weight vs. the average observed tumor volume for the entire Capomulin regimen
 ![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/2d6c3b7f-a489-4149-97f9-e1c1086309d2)
 
-
+---
 
 *Step 6:	Calculate correlation and regression*
 
