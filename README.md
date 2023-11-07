@@ -9,6 +9,7 @@ To achieve this objective, I will be running statistical tests to look for corre
 ---
 
 **Tools**
+
 I will be using Jupyter Notebook/Python, Pandas in Python, Matplotlib and scipy to display data for my pharmaceutical company.
 ---
 
