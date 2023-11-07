@@ -11,7 +11,7 @@ I will be using Jupyter Notebook/Python, Pandas in Python, Matplotlib and scipy 
 
 **Project Steps**
 
-##Step 1:	Prepare the data
+*Step 1:	Prepare the data*
 Two data sets were provided in Excel format, one showed the metadata for each mouse and the other showed the study results.
 Looking for Duplicates:	I identified and extracted data for Mouse g989 as it had duplicate entries.  
 
