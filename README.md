@@ -17,40 +17,41 @@ Looking for Duplicates:	I identified and extracted data for Mouse g989 as it had
 ##Step 2:	Generate summary statistics
 I generated a summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen.
 ![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/a5ebf0c4-170e-425f-9f63-b058410f8769)
-![alt text] (![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/428e52d0-af67-435b-991b-70b11b585c78)
-)
 
- 
 
 ##Step 3:	Create bar charts and pie charts
 Bar Chart - Generated a bar plot showing the total number of rows (Mouse ID/Timepoints) for each drug regimen using Pandas.  This showed the total number of timepoints for all mice tested for each drug regimen.
+![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/243355c0-411b-4f0c-b37b-738e83237557)
  
 The bar graphs showed that the Drug Regimen Capomulin had the maximum number of mice and Propriva had the smallest number of mice.  
 
 Next, I generated a pie plot showing the distribution of female versus male mice using Pandas
+![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/a682625e-216a-450c-935d-50d59b34f7b1)
  
 The 2 pie charts showed that 51% of mice tested were male and 49% were female.
 
 Step 4:	Calculate quartiles, find outliers, and create a box plot
 Calculated the final tumor volume of each mouse across four of the treatment regimens:  Capomulin, Ramicane, Infubinol, and Ceftamin
- 
+![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/fe7c8b7d-2fd0-4555-8679-3955d8def97a)
 
 Boxplots - Generated a box plot to show the distribution of the tumor volume for all the mice in each treatment group.
+![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/27a856e2-80fa-4e87-aeff-ba5c437c224f)
  
 The box plot indicated an outlier: the Infubinol drug.  An outlier is a data point that is significantly different from the rest of the data i.e. they could represent errors or unusual observations.  However, not all extreme values are necessarily errors; they sometimes represent valid data points that deviate from the central trend.
 
 ##Step 5:	Create a line plot and a scatter plot
 Line Graph - Generated a line plot of tumor volume vs. time point for a single mouse treated with Capomulin.
 This can be easily used to show results for any given mouse.
-
+![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/5383823b-003f-44a6-b2a5-5dcd1a5aef5d)
  
 The line plot for Capomulin treatment of mouse I509 showed the tumor volume still increasing steadily up to Day 20, after which it dropped up to Day 25.  Then the tumor started to increase again for 5 days followed by a significant drop up to Day 35.  From Day 35, the tumor started increasing.
 
 Scatter Plot - Generated a scatter plot of mouse weight vs. the average observed tumor volume for the entire Capomulin regimen
- 
+![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/2d6c3b7f-a489-4149-97f9-e1c1086309d2)
 
 ##Step 6:	Calculate correlation and regression
 Calculated the correlation coefficient and a linear regression model for mouse weight and average observed tumor volume for the entire Capomulin regimen.
+![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/516258fd-fa5d-4e0c-af4f-761b9b2c4154)
  
 The correlation between mouse weight and the average tumour volume is 0.84.
 An R-value of 1 indicates a perfect positive linear relationship, while an R-value of -1 indicates a perfect negative linear relationship.  An R-value of 0 suggests no linear relationship. 
