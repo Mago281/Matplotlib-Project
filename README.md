@@ -6,6 +6,8 @@ As a senior data analyst at the company, I've been given access to the complete 
 The executive team has tasked me with generating all the tables and figures needed for the technical report of the clinical study.  They have also asked for a top-level summary of the study results.
 To achieve this objective, I will be running statistical tests to look for correlations between data sets and creating plots to help visualize my findings.  
 
+---
+
 **Tools**
 I will be using Jupyter Notebook/Python, Pandas in Python, Matplotlib and scipy to display data for my pharmaceutical company.
 ---
@@ -55,6 +57,7 @@ The box plot indicated an outlier: the Infubinol drug.  An outlier is a data poi
 
 Line Graph - Generated a line plot of tumor volume vs. time point for a single mouse treated with Capomulin.
 This can be easily used to show results for any given mouse.
+
 ![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/5383823b-003f-44a6-b2a5-5dcd1a5aef5d)
  
 The line plot for Capomulin treatment of mouse I509 showed the tumor volume still increasing steadily up to Day 20, after which it dropped up to Day 25.  Then the tumor started to increase again for 5 days followed by a significant drop up to Day 35.  From Day 35, the tumor started increasing.
