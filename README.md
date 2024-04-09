@@ -4,6 +4,8 @@ Data visualization is paramount in effectively communicating insights derived fr
 
 As a member of Pymaceuticals, Inc., a pharmaceutical company specializing in anti-cancer medications, I have embarked on an analysis focusing on potential treatments for squamous cell carcinoma (SCC), a prevalent form of skin cancer.
 
+---
+
 **Project Overview**
 
 In this project, I have been granted access to comprehensive data from Pymaceuticals' latest animal study. This study involved 249 mice diagnosed with SCC tumors, undergoing treatment with various drug regimens. Over a 45-day period, tumor development was meticulously observed and measured. The primary aim of the study was to evaluate the efficacy of Pymaceuticals' drug of interest, Capomulin, against alternative treatment regimens.
@@ -14,31 +16,31 @@ To fulfill this mandate, I will conduct statistical tests to identify correlatio
 
 ---
 
-**Tools**
+**Tools Utilized**
 
-I will be using Jupyter Notebook/Python, Pandas in Python, Matplotlib and scipy to display data for my pharmaceutical company.
+For this project, I leveraged Jupyter Notebook/Python, Pandas, Matplotlib, and Scipy to present data effectively for Pymaceuticals.
 
 ---
 
 **Project Steps**
 
-*Step 1:	Prepare the data*
+*Step 1:	Data Preparation*
 
-Two data sets were provided in Excel format, one showed the metadata for each mouse and the other showed the study results.
-
-Looking for Duplicates:	Identified and extracted data for Mouse g989 as it had duplicate entries.  
+Upon receiving two Excel datasets—one containing metadata for each mouse and the other showcasing the study results—I meticulously checked for duplicates. Upon identification, data for Mouse g989 was extracted due to duplicate entries.
 
 ---
 
-*Step 2:	Generate summary statistics*
+*Step 2:	Summary Statistics Generation*
 
-I generated a summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen.
+I generated a comprehensive summary statistics table, including mean, median, variance, standard deviation, and SEM of tumor volume for each treatment regimen.
 
 ![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/a5ebf0c4-170e-425f-9f63-b058410f8769)
 
 ---
 
-*Step 3:	Create bar charts and pie charts*
+*Step 3:	Bar and Pie Charts Creation*
+
+I created bar charts to illustrate the total number of rows (Mouse ID/Timepoints) for each drug regimen and pie charts showcasing the distribution of female versus male mice.
 
 Bar Chart - Generated a bar plot showing the total number of rows (Mouse ID/Timepoints) for each drug regimen using Pandas.  This showed the total number of timepoints for all mice tested for each drug regimen.
 
@@ -55,7 +57,9 @@ The pie charts showed that 51% of mice tested were male and 49% were female.
 
 ---
 
-*Step 4:	Calculate quartiles, find outliers, and create a box plot*
+*Step 4:	Quartiles Calculation and Outlier Identification*
+
+Calculated the final tumor volume of each mouse across four treatment regimens—Capomulin, Ramicane, Infubinol, and Ceftamin. Subsequently, I generated box plots to visualize the distribution of tumor volume, identifying outliers such as the Infubinol drug.
 
 Calculated the final tumor volume of each mouse across four of the treatment regimens:  Capomulin, Ramicane, Infubinol, and Ceftamin
 
@@ -71,7 +75,9 @@ An outlier is a data point that is significantly different from the rest of the 
 
 ---
 
-*Step 5:	Create a line plot and a scatter plot*
+*Step 5:	Line and Scatter Plots Generation*
+
+I produced a line plot depicting tumor volume vs. time point for a single mouse treated with Capomulin, providing insights into tumor progression. Additionally, I generated a scatter plot of mouse weight vs. the average observed tumor volume for the entire Capomulin regimen.
 
 Line Graph - Generated a line plot of tumor volume vs. time point for a single mouse treated with Capomulin.
 
@@ -87,7 +93,9 @@ Scatter Plot - Generated a scatter plot of mouse weight vs. the average observed
 
 ---
 
-*Step 6:	Calculate correlation and regression*
+*Step 6:	Correlation and Regression Analysis*
+
+Conducted correlation coefficient and linear regression analyses for mouse weight and average observed tumor volume within the Capomulin regimen. The analyses revealed a moderately strong positive linear relationship, indicating the potential predictive capabilities of the model.
 
 Calculated the correlation coefficient and a linear regression model for mouse weight and average observed tumor volume for the entire Capomulin regimen.
 
@@ -103,4 +111,7 @@ This means that the lines are reasonably good fits for the data, and can be used
 Our analyses showed that the Capomulin and Ramicane drugs reduce the size of tumors best whilst the Propiva drug causes more harm than good.
 
 Capomulin would be the preferred drug.
+
+**Conclusion**
+Our analysis underscores the efficacy of Capomulin and Ramicane in tumor reduction, while cautioning against the usage of Propiva due to adverse effects. Capomulin emerges as the preferred treatment option based on our findings.
 
