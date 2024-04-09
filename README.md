@@ -26,7 +26,7 @@ For this project, I leveraged Jupyter Notebook/Python, Pandas, Matplotlib, and S
 
 *Step 1:	Data Preparation*
 
-Upon receiving two Excel datasets—one containing metadata for each mouse and the other showcasing the study results—I meticulously checked for duplicates. Upon identification, data for Mouse g989 was extracted due to duplicate entries.
+Upon receiving two Excel datasets, one containing metadata for each mouse and the other showcasing the study results, I meticulously checked for duplicates. Upon identification, data for Mouse g989 was extracted due to duplicate entries.
 
 ---
 
