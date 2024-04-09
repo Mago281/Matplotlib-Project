@@ -44,11 +44,12 @@ I created a bar chart to illustrate the total number of rows (Mouse ID/Timepoint
 
 ![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/243355c0-411b-4f0c-b37b-738e83237557)
  
-The bar graphs showed that the Drug Regimen Capomulin had the maximum number of mice and Propriva had the smallest number of mice.  
+The bar graph showed that the Drug Regimen Capomulin had the maximum number of mice and Propriva had the smallest number of mice.
+
 
 ![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/a682625e-216a-450c-935d-50d59b34f7b1)
  
-The pie charts showed that 51% of mice tested were male and 49% were female.
+The pie chart showed that 51% of mice tested were male and 49% were female.
 
 ---
 
