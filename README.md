@@ -35,6 +35,7 @@ Upon receiving two Excel datasets, one containing metadata for each mouse and th
 I generated a comprehensive summary statistics table, including mean, median, variance, standard deviation, and SEM of tumor volume for each treatment regimen.
 
 ![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/a5ebf0c4-170e-425f-9f63-b058410f8769)
+ <img src="https://github.com/Mago281/matplotlib-challenge/assets/131424690/a5ebf0c4-170e-425f-9f63-b058410f8769" width="300" height="200">
 
 ---
 
