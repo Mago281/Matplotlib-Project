@@ -8,7 +8,7 @@ As a member of Pymaceuticals, Inc., a pharmaceutical company specializing in ant
 
 **Project Overview**
 
-In this project, I have been granted access to comprehensive data from Pymaceuticals' latest animal study. This study involved 249 mice diagnosed with SCC tumors, undergoing treatment with various drug regimens. Over a 45-day period, tumor development was meticulously observed and measured. The primary aim of the study was to evaluate the efficacy of Pymaceuticals' drug of interest, Capomulin, against alternative treatment regimens.
+For this project, I have been granted access to comprehensive data from Pymaceuticals' latest animal study. This study involved 249 mice diagnosed with SCC tumors, undergoing treatment with various drug regimens. Over a 45-day period, tumor development was meticulously observed and measured. The primary aim of the study was to evaluate the efficacy of Pymaceuticals' drug of interest, Capomulin, against alternative treatment regimens.
 
 The executive team has entrusted me with the responsibility of generating all necessary tables and figures for the technical report of the clinical study. Additionally, they have requested a high-level summary of the study results.
 
