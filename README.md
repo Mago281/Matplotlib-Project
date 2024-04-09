@@ -40,16 +40,11 @@ I generated a comprehensive summary statistics table, including mean, median, va
 
 *Step 3:	Bar and Pie Charts Creation*
 
-I created bar charts to illustrate the total number of rows (Mouse ID/Timepoints) for each drug regimen and pie charts showcasing the distribution of female versus male mice.
-
-Bar Chart - Generated a bar plot showing the total number of rows (Mouse ID/Timepoints) for each drug regimen using Pandas.  This showed the total number of timepoints for all mice tested for each drug regimen.
+I created a bar chart to illustrate the total number of rows (Mouse ID/Timepoints) for each drug regimen and a pie chart showcasing the distribution of female versus male mice.
 
 ![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/243355c0-411b-4f0c-b37b-738e83237557)
  
 The bar graphs showed that the Drug Regimen Capomulin had the maximum number of mice and Propriva had the smallest number of mice.  
-
-
-Next, I generated a pie plot showing the distribution of female versus male mice using Pandas
 
 ![image](https://github.com/Mago281/matplotlib-challenge/assets/131424690/a682625e-216a-450c-935d-50d59b34f7b1)
  
